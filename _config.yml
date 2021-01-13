@@ -47,12 +47,14 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: OpenStack
+    web_url: https://www.openstack.org/
+    image_url: https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-images-prod/openstack-logo/OpenStack-Logo-Vertical.png
 
-  - name: Web design
+  - name: Kubernetes
+    web_url: https://kubernetes.io/
+    image_url: https://kubernetes.io/images/kubernetes-horizontal-color.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Elasticsearch
+    web_url: https://www.elastic.co/
+    image_url: https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt987f36e6cf17bc9a/5ea8c7fba7bdee51f48010f7/brand-elastic-vertical-220x130.svg
